@@ -1,0 +1,35 @@
+Number of words in dictionary: 370103
+
+-First 10 Emordnilap words-
+aa : aa
+aaa : aaa
+aas : saa
+ab : ba
+aba : aba
+abac : caba
+abas : saba
+abay : yaba
+abba : abba
+abo : oba
+Longest Emordnilap word found: kinnikinnik
+Found 10 Emordnilap words
+Total run time (secs): 4.24
+
+-File Read: Sample.txt-
+Number of Valid words read: 610
+Number of Unique words read: 276
+Unique words matched in dictionary: 275
+
+-Lets find Anagrams!-
+admire: armied damier dimera merida
+after: afret frate trefa
+again: angia
+along: anglo gonal lango logan longa nogal
+and: dan nad
+another: athenor rheotan
+answer: resawn
+any: nay yan
+are: aer ear era rea
+as: sa
+
+Total run time of program: 15.54
